@@ -1,6 +1,6 @@
-# Welcome to [Your Organization Name] 🌟
+# Welcome to G.H.I Studios 🌟
 
-![Organization Banner](https://via.placeholder.com/1200x300.png?text=Organization+Banner)
+![G.H.I Studios Banner]([https://via.placeholder.com/1200x300.png?text=Organization+Banner](https://i.ibb.co/9TzMwkN/freepik-modern-duotone-red-esports-twitter-header-20241010032323y-Qe-Q.png))
 
 ---
 
@@ -63,5 +63,4 @@ Follow us on social media to keep up with the latest news and updates!
 
 ## 📄 License
 
-This organization’s work is licensed under the [MIT License](LICENSE).
-
+All rights reserved. All softwares and its code cannot be copied, modified, distributed, or sold without prior written consent from G.H.I Studios.
