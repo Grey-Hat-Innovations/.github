@@ -46,7 +46,7 @@ We welcome contributions and collaborations! Here’s how you can get involved:
 
 ## 👥 Meet the Team
 
-[Ibrahem Issam Awad](https://github.com/Ibrahem-Awad) | [Team Member 2](https://github.com/member2) | [Team Member 3](https://github.com/member3)  
+[Ibrahem Issam Awad](https://github.com/Ibrahem-Awad) | [laith al sha'abi](https://github.com/laithalshabi) | [Team Member 3](https://github.com/member3)  
 _A team of talented developers and engineers._
 
 ---
