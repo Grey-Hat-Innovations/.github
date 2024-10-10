@@ -1,6 +1,6 @@
 # Welcome to G.H.I Studios 🌟
 
-![G.H.I Studios Banner]([https://via.placeholder.com/1200x300.png?text=Organization+Banner](https://i.ibb.co/9TzMwkN/freepik-modern-duotone-red-esports-twitter-header-20241010032323y-Qe-Q.png))
+![G.H.I Studios Banner](https://i.ibb.co/9TzMwkN/freepik-modern-duotone-red-esports-twitter-header-20241010032323y-Qe-Q.png)
 
 ---
 
