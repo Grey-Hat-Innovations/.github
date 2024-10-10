@@ -65,7 +65,6 @@ Follow us on social media to keep up with the latest news and updates!
 
 All rights reserved. All softwares and its code cannot be copied, modified, distributed, or sold without prior written consent from G.H.I Studios.
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Grey-Hat-Innovations/count.svg?"  />
+<div align="center" style="width:100%;">
+  <img src="https://profile-counter.glitch.me/Grey-Hat-Innovations/count.svg?" style="width:100%;" />
 </div>
-
