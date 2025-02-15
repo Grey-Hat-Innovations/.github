@@ -31,7 +31,7 @@ B. Design Services
 
 Description: Streamline your B2B orders with Jabalico Hardware, the go-to app for accessing the extensive hardware catalog from Jabalico Bros. Browse products, place orders, and stay updated on the latest offerings – all in one convenient app!
 
-🔗 **Check it out**: [GooglePlay Link](https://play.google.com/store/apps/details?id=com.jabalico.b2b&hl=en)
+🔗 **Check it out**: [GooglePlay Link](https://play.google.com/store/apps/details?id=com.jabalico.b2b&hl=en) [AppStore Link](https://apps.apple.com/jo/app/jabalico-hardware/id6738100184)
 
 
 ### 2. Our Discord Advanced Bot (Violet)
