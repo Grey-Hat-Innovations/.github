@@ -6,31 +6,32 @@
 
 ## 🌍 About Us
 
-We are a team of passionate developers, engineers, and innovators dedicated to building amazing projects in the fields of **[your focus areas]**. Our mission is to [describe your mission in one or two sentences].
+We are G.H.I Studios, a development and design studio based in Jordan. Our team of passionate developers, engineers, and designers is dedicated to delivering innovative solutions that combine technical excellence with creative design.
 
 📈 Our organization focuses on:
 
-- [Core area 1]
-- [Core area 2]
-- [Core area 3]
+A. Software Development
+- Mobile Apps: iOS/Android development
+- Web Development: Responsive websites
+- Custom Software: ERP, CRM, automation
+- API Development: Integration services
+
+B. Design Services
+- UI/UX Design
+- Branding & Identity
+- Graphic Design
+- Motion Graphics & Animation
 
 ---
 
 ## 🛠️ Key Projects
 
-### 1. [Project Name 1]
-[![Project Image 1](https://via.placeholder.com/500x300.png?text=Project+Image+1)](https://github.com/yourorg/project1)
+### 1. Jabalico Hardware
+[![Project Image 1](https://jabalicohardware.com/cdn/shop/files/414867535_784350893708433_2469272272998267184_n_LE_auto_x2-removebg_1.png)]([https://github.com/yourorg/project1](https://play.google.com/store/apps/details?id=com.jabalico.b2b&hl=en))
 
-Description: [Provide a brief description of the project and what it aims to achieve.]
+Description: Streamline your B2B orders with Jabalico Hardware, the go-to app for accessing the extensive hardware catalog from Jabalico Bros. Browse products, place orders, and stay updated on the latest offerings – all in one convenient app!
 
-🔗 **Check it out**: [Repository Link](https://github.com/yourorg/project1)
-
-### 2. [Project Name 2]
-[![Project Image 2](https://via.placeholder.com/500x300.png?text=Project+Image+2)](https://github.com/yourorg/project2)
-
-Description: [Provide a brief description of the project and its key features.]
-
-🔗 **Check it out**: [Repository Link](https://github.com/yourorg/project2)
+🔗 **Check it out**: [GooglePlay Link]([https://github.com/yourorg/project1](https://play.google.com/store/apps/details?id=com.jabalico.b2b&hl=en))
 
 ---
 
