@@ -33,6 +33,16 @@ Description: Streamline your B2B orders with Jabalico Hardware, the go-to app fo
 
 🔗 **Check it out**: [GooglePlay Link](https://play.google.com/store/apps/details?id=com.jabalico.b2b&hl=en)
 
+
+### 2. Our Discord Advanced Bot (Violet)
+![Project Image 1](https://media.discordapp.net/attachments/979580636056658000/1338227326445551667/ComfyUI_00378_.png?ex=67b239d1&is=67b0e851&hm=246a9b8a738f6154efca8ec24a5b3af8d5afe5e7f6e3127d1b24e8ad254f3f83&=&format=webp&quality=lossless&width=350&height=350)
+
+Description: Meet Violet, the ultimate all-in-one assistant for our Discord community! 🚀
+
+Designed to keep our server safe, fun, and engaging, this powerful bot handles everything from moderation to AI-powered conversations. Whether you need to mute troublemakers, manage roles, or fetch important info, it’s got you covered. Plus, you can talk to it or text it just like an AI chatbot, making every interaction smarter and more dynamic.
+
+Stay in control, keep the vibes right, and let Violet handle the rest! 🤖🔥
+
 ---
 
 ## 🤝 Get Involved
@@ -47,7 +57,7 @@ We welcome contributions and collaborations! Here’s how you can get involved:
 
 ## 👥 Meet the Team
 
-[Ibrahem Issam Awad](https://github.com/Ibrahem-Awad) | [laith al sha'abi](https://github.com/laithalshabi) | [Team Member 3](https://github.com/member3)  
+[Ibrahem Issam Awad](https://github.com/Ibrahem-Awad) | [laith al sha'abi](https://github.com/laithalshabi) 
 _A team of talented developers and engineers._
 
 ---
