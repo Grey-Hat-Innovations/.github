@@ -27,7 +27,7 @@ B. Design Services
 ## 🛠️ Key Projects
 
 ### 1. Jabalico Hardware
-[![Project Image 1](https://jabalicohardware.com/cdn/shop/files/414867535_784350893708433_2469272272998267184_n_LE_auto_x2-removebg_1.png)]
+![Project Image 1](https://jabalicohardware.com/cdn/shop/files/414867535_784350893708433_2469272272998267184_n_LE_auto_x2-removebg_1.png)
 
 Description: Streamline your B2B orders with Jabalico Hardware, the go-to app for accessing the extensive hardware catalog from Jabalico Bros. Browse products, place orders, and stay updated on the latest offerings – all in one convenient app!
 
