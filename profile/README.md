@@ -56,9 +56,8 @@ _A team of talented developers and engineers._
 
 Follow us on social media to keep up with the latest news and updates!
 
-- Twitter: [@YourOrg](https://twitter.com/YourOrg)
-- LinkedIn: [Your Organization](https://www.linkedin.com/company/yourorg)
-- Website: [www.yourorganization.com](https://www.yourorganization.com)
+- LinkedIn: [GHI Studios](https://www.linkedin.com/company/ghi-studios/)
+- Website: [www.ghistudios.com](https://www.ghistudios.com)
 
 ---
 
