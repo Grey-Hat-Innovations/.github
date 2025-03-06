@@ -27,7 +27,7 @@ B. Design Services
 ## 🛠️ Key Projects
 
 ### 1. Our B2B application (Jabalico Hardware)
-![Project Image 1](https://github.com/Grey-Hat-Innovations/B2B/blob/Jabalico/Client/Mobile/assets/adaptive-icon.png)
+![Project Image 1](https://raw.githubusercontent.com/Grey-Hat-Innovations/.github/refs/heads/main/profile/Logo.webp)
 
 Description: Streamline your B2B orders with Jabalico Hardware, the go-to app for accessing the extensive hardware catalog from Jabalico Bros. Browse products, place orders, and stay updated on the latest offerings – all in one convenient app!
 
@@ -35,7 +35,7 @@ Description: Streamline your B2B orders with Jabalico Hardware, the go-to app fo
 
 
 ### 2. Our Discord Advanced Bot (Violet)
-![Project Image 1](https://media.discordapp.net/attachments/979580636056658000/1338227326445551667/ComfyUI_00378_.png?ex=67b239d1&is=67b0e851&hm=246a9b8a738f6154efca8ec24a5b3af8d5afe5e7f6e3127d1b24e8ad254f3f83&=&format=webp&quality=lossless&width=350&height=350)
+![Project Image 1](https://raw.githubusercontent.com/Grey-Hat-Innovations/.github/refs/heads/main/profile/Bot.webp)
 
 Description: Meet Violet, the ultimate all-in-one assistant for our Discord community! 🚀
 
