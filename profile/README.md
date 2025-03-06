@@ -27,7 +27,7 @@ B. Design Services
 ## 🛠️ Key Projects
 
 ### 1. Our B2B application (Jabalico Hardware)
-![Project Image 1](https://media.discordapp.net/attachments/979580636056658000/1340452750802292798/Logo.png?ex=67b26968&is=67b117e8&hm=09814ed7bec837cd79626c8a304423ce3184d4b63180b5b779a3c6376a78e7dc&=&format=webp&quality=lossless&width=350&height=350)
+![Project Image 1](https://github.com/Grey-Hat-Innovations/B2B/blob/Jabalico/Client/Mobile/assets/adaptive-icon.png)
 
 Description: Streamline your B2B orders with Jabalico Hardware, the go-to app for accessing the extensive hardware catalog from Jabalico Bros. Browse products, place orders, and stay updated on the latest offerings – all in one convenient app!
 
