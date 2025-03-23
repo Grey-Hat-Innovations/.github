@@ -2,7 +2,7 @@
 
 ![G.H.I Studios Banner](https://i.ibb.co/9TzMwkN/freepik-modern-duotone-red-esports-twitter-header-20241010032323y-Qe-Q.png)
 
----
+----
 
 ## 🌍 About Us
 
